@@ -2,9 +2,9 @@
 
 ## Objective
 
-Teach the learner how to speak with customers to discover real pain before selling.
+You will learn how to speak with customers to discover real pain before selling.
 
-Customer discovery is the foundation of founder-led sales. If the learner cannot ask good questions, they will build weak pitches and chase the wrong customers.
+Customer discovery is the foundation of founder-led sales. If you cannot ask good questions, you will build weak pitches and chase the wrong customers.
 
 ## The rule
 

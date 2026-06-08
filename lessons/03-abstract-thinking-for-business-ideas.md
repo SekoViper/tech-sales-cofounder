@@ -2,7 +2,7 @@
 
 ## Objective
 
-Teach the learner how to think beyond the surface of an idea and identify the real business system underneath it.
+You will learn how to think beyond the surface of an idea and identify the real business system underneath it.
 
 This is one of the most important lessons in the roadmap.
 

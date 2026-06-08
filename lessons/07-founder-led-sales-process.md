@@ -2,7 +2,7 @@
 
 ## Objective
 
-Teach the learner how to run a basic but serious sales process from prospecting to close.
+You will learn how to run a basic but serious sales process from prospecting to close.
 
 Founder-led sales is not random talking. It is a repeatable operating system.
 

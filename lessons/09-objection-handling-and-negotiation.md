@@ -2,7 +2,7 @@
 
 ## Objective
 
-Teach the learner how to handle objections without becoming defensive, desperate, or weak on value.
+You will learn how to handle objections without becoming defensive, desperate, or weak on value.
 
 An objection is not rejection. It is information.
 

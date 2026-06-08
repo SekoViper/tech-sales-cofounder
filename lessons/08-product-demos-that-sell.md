@@ -2,7 +2,7 @@
 
 ## Objective
 
-Teach the learner how to run demos that connect the product to customer pain.
+You will learn how to run demos that connect the product to customer pain.
 
 A demo is not a product tour. A demo is a business conversation supported by the product.
 

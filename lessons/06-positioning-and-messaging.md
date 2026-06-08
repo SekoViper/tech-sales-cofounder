@@ -2,7 +2,7 @@
 
 ## Objective
 
-Teach the learner how to explain a tech product so customers immediately understand why it matters.
+You will learn how to explain a tech product so customers immediately understand why it matters.
 
 Positioning answers:
 

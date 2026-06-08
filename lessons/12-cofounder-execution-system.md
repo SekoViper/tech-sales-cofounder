@@ -2,7 +2,7 @@
 
 ## Objective
 
-Turn the learner from a student into an operating commercial co-founder.
+You will learn how to move from student mode into operating like a commercial co-founder.
 
 A co-founder must produce measurable outcomes every week.
 
@@ -93,7 +93,7 @@ Next month focus:
 
 ## Personal growth system
 
-The learner should build weekly habits:
+You should build weekly habits:
 
 - Read one sales/business resource
 - Listen to one founder interview

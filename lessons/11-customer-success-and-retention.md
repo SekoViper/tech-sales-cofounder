@@ -2,7 +2,7 @@
 
 ## Objective
 
-Teach the learner that closing a customer is not the finish line. It is the beginning of value delivery.
+You will learn that closing a customer is not the finish line. It is the beginning of value delivery.
 
 A commercial co-founder must help customers succeed after the sale.
 

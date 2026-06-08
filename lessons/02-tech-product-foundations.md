@@ -2,7 +2,7 @@
 
 ## Objective
 
-Teach the learner enough technology language to sell confidently without pretending to be a developer.
+You will learn enough technology language to sell confidently without pretending to be a developer.
 
 The goal is business-level understanding, not coding ability.
 

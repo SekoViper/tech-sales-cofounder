@@ -2,7 +2,7 @@
 
 ## Objective
 
-Teach the learner how to connect customer pain to measurable business value.
+You will learn how to connect customer pain to measurable business value.
 
 Sales becomes powerful when the customer sees that the problem is not just annoying but expensive.
 

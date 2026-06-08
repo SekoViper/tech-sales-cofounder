@@ -2,9 +2,9 @@
 
 ## Objective
 
-Use the learner's accounting background to build pricing confidence and commercial discipline.
+You will learn how to use your accounting background to build pricing confidence and commercial discipline.
 
-This is where the learner should become especially strong.
+This is where you should become especially strong.
 
 ## Pricing is strategy
 

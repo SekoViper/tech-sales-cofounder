@@ -2,9 +2,9 @@
 
 ## Objective
 
-Help the learner move from an accounting identity into a commercial co-founder identity.
+You will learn how to move from an accounting identity into a commercial co-founder identity.
 
-The learner must stop seeing themselves only as someone who prepares reports, tracks expenses, or manages accounts. Those skills are useful, but as a co-founder, their role is larger: they must understand business pain, translate it into product value, and help turn that value into revenue.
+You must stop seeing yourself only as someone who prepares reports, tracks expenses, or manages accounts. Those skills are useful, but as a co-founder, your role is larger: you must understand business pain, translate it into product value, and help turn that value into revenue.
 
 ## Core idea
 
@@ -115,7 +115,7 @@ Tech products are also systems:
 - Decisions are made
 - Customers receive value
 
-The learner must connect both worlds.
+You must connect both worlds.
 
 ## Abstract thinking drill
 
