@@ -1,6 +1,6 @@
 # Assignments
 
-This folder contains the practical work that turns the learner into a real commercial operator.
+This folder contains the practical work that turns you into a real commercial operator.
 
 ## Required assignments
 
@@ -17,15 +17,15 @@ This folder contains the practical work that turns the learner into a real comme
 11. Customer success plan
 12. Co-founder operating system
 
-## Grading standard
+## Evidence standard
 
-Do not grade by how beautiful the document is. Grade by evidence:
+Do not judge your work by how beautiful the document is. Judge it by evidence:
 
-- Did the learner talk to real customers?
-- Did they document real pain?
-- Did they connect pain to money?
-- Did they produce clear sales messages?
-- Did they create a usable proposal?
-- Did they practice demos?
-- Did they handle objections with confidence?
-- Did they define measurable customer success?
+- Did you talk to real customers?
+- Did you document real pain?
+- Did you connect pain to money?
+- Did you produce clear sales messages?
+- Did you create a usable proposal?
+- Did you practice demos?
+- Did you handle objections with confidence?
+- Did you define measurable customer success?

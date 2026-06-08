@@ -2,11 +2,11 @@
 
 ## Objective
 
-Prove that the learner can operate as a serious commercial co-founder.
+You will prove that you can operate as a serious commercial co-founder.
 
 ## Final project requirements
 
-The learner must produce a complete go-to-market package.
+You must produce a complete go-to-market package.
 
 ## Part 1: Target customer segment
 
@@ -97,4 +97,4 @@ Prepare a 10-minute presentation answering:
 
 ## Passing standard
 
-The learner passes if they can defend the go-to-market plan with customer evidence, not assumptions.
+You pass if you can defend your go-to-market plan with customer evidence, not assumptions.

@@ -1,8 +1,8 @@
 # Tech Sales Co-founder Roadmap
 
-A 12-week learning repository for someone from an accounting background who wants to become a commercial co-founder capable of selling technology products, thinking abstractly about business problems, and turning ideas into revenue.
+A 12-week roadmap for you if you come from an accounting background and want to become a commercial co-founder who can sell technology products, think abstractly about business problems, and turn ideas into revenue.
 
-This curriculum is designed for a learner who does **not** need to become a software engineer, but must become strong enough to:
+This curriculum is designed for you if you do **not** need to become a software engineer, but must become strong enough to:
 
 - Understand technology products at a business level.
 - Identify painful business problems worth solving.
@@ -14,9 +14,9 @@ This curriculum is designed for a learner who does **not** need to become a soft
 
 ## Core belief
 
-The learner should not position themselves as “an accountant learning tech.”
+Do not position yourself as “an accountant learning tech.”
 
-They should position themselves as:
+Position yourself as:
 
 > I help businesses use technology to improve revenue, customer retention, reporting, and operational control.
 
@@ -44,7 +44,7 @@ Study one lesson per week. Each lesson contains:
 - Deliverables
 - Recommended resources
 
-Do not only read. The learner must talk to real customers, write proposals, practice demos, and document feedback.
+Do not only read. You must talk to real customers, write proposals, practice demos, and document feedback.
 
 ## 12-week roadmap
 
@@ -78,7 +78,7 @@ tech-sales-cofounder-roadmap/
 
 ## Learning rule
 
-For every idea, force the learner to answer:
+For every idea, force yourself to answer:
 
 1. Who has the problem?
 2. What painful job are they trying to complete?
@@ -90,7 +90,7 @@ For every idea, force the learner to answer:
 
 ## Completion standard
 
-The learner has completed this roadmap only when they can:
+You have completed this roadmap only when you can:
 
 - Explain the product in plain business language.
 - Interview at least 20 prospects.
@@ -115,7 +115,7 @@ The learner has completed this roadmap only when they can:
 
 A co-founder title means nothing without measurable contribution.
 
-Track the learner by outcomes:
+Track yourself by outcomes:
 
 - Number of customer conversations
 - Number of qualified leads
@@ -126,4 +126,4 @@ Track the learner by outcomes:
 - Customer usage after onboarding
 - Product feedback collected
 
-If those numbers are not improving, the learner is studying sales, not becoming a salesperson.
+If those numbers are not improving, you are studying sales, not becoming a salesperson.
